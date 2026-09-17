@@ -3,7 +3,7 @@
 ## 📘 Topics Learned Today
 
 - len() with Strings
-- String Indexing
+- String Indexing 
 - Dictionary Basics
   
 ## 📂 Programs Included  
