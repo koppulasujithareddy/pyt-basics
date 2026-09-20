@@ -4,7 +4,7 @@
 
 - len() with Strings
 - String Indexing 
-- Dictionary Basics
+- Dictionary Basics 
   
 ## 📂 Programs Included  
     
