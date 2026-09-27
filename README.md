@@ -8,7 +8,7 @@
    
 ## 📂 Programs Included  
     
-- String Length Program
+- String Length Program  
 - String Indexing Program
 - Dictionary Basics Program
  
