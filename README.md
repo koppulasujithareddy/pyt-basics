@@ -10,7 +10,7 @@
        
 - String Length Program  
 - String Indexing Program
-- Dictionary Basics Program
+- Dictionary Basics Program 
  
 ## 🌱 About Me
 
