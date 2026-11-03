@@ -9,7 +9,7 @@
 ## 📂 Programs Included    
        
 - String Length Program    
-- String Indexing Program
+- String Indexing Program 
 - Dictionary Basics Program 
  
 ## 🌱 About Me 
